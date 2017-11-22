@@ -1,0 +1,95 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:605120804946479324",
+      "lastPropertyId": "8:8059451997976244572",
+      "name": "LotteryBall",
+      "properties": [
+        {
+          "id": "1:2031638101647489844",
+          "name": "id"
+        },
+        {
+          "id": "2:2099524393989959748",
+          "name": "name"
+        },
+        {
+          "id": "3:4744432188201925156",
+          "name": "max"
+        },
+        {
+          "id": "4:8727383515725368224",
+          "name": "reject"
+        },
+        {
+          "id": "5:9056279770696364223",
+          "name": "colNum"
+        },
+        {
+          "id": "6:5270331291021425782",
+          "name": "colStyle"
+        },
+        {
+          "id": "7:3106514750687881993",
+          "name": "colSplit"
+        },
+        {
+          "id": "8:8059451997976244572",
+          "name": "ballList"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2:6446798653075743365",
+      "lastPropertyId": "6:3747932202355555632",
+      "name": "LotteryPlayType",
+      "properties": [
+        {
+          "id": "1:1418633116819337486",
+          "name": "id"
+        },
+        {
+          "id": "2:1578324845632801712",
+          "name": "name"
+        },
+        {
+          "id": "3:1880621643364002271",
+          "name": "algorithm"
+        },
+        {
+          "id": "4:6846941483979151308",
+          "name": "netid"
+        },
+        {
+          "id": "5:3566472644468374152",
+          "name": "rowSpilt"
+        },
+        {
+          "id": "6:3747932202355555632",
+          "name": "desc"
+        }
+      ],
+      "relations": [
+        {
+          "id": "1:4663281961696221758",
+          "name": "lotteryBalls"
+        }
+      ]
+    }
+  ],
+  "lastEntityId": "2:6446798653075743365",
+  "lastIndexId": "0:0",
+  "lastRelationId": "1:4663281961696221758",
+  "lastSequenceId": "0:0",
+  "modelVersion": 4,
+  "modelVersionParserMinimum": 4,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}

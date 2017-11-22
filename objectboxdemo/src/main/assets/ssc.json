@@ -1,0 +1,2194 @@
+[
+  {
+    "lottery": "ssc",
+    "list": [
+      {
+        "name": "五星",
+        "type": [
+          {
+            "name": "通选",
+            "algorithm": "SSC_5XTX",
+            "netid": "11-65",
+            "rowSplit": "|",
+            "desc": "玩法提示：所选号码与开奖号码一一对应奖金为2万元。所选号码前三位或后三位与开奖一一对应，奖金为200元，前二位或者后二位与开奖一一对应，奖金为30元。",
+            "ballInfo": [
+              {
+                "name": "万位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "千位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "百位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "十位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "个位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "直选",
+            "algorithm": "SSC_5XZX",
+            "netid": "11-64",
+            "rowSplit": "|",
+            "desc": "玩法提示：从五位各选1个或多个号码，选号与开奖号码按位一致即中奖116000元。",
+            "ballInfo": [
+              {
+                "name": "万位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "千位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "百位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "十位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "个位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "四星",
+        "type": [
+          {
+            "name": "四星",
+            "algorithm": "SSC_4X",
+            "netid": "12",
+            "rowSplit": "|",
+            "desc": "玩法提示：从四位各选1个或多个号码，选号与开奖号码按位一致即中奖88-10000元。",
+            "ballInfo": [
+              {
+                "name": "千位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "百位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "十位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "个位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "三星",
+        "type": [
+          {
+            "name": "直选",
+            "algorithm": "SSC_3XZX",
+            "netid": "13-66",
+            "rowSplit": "|",
+            "desc": "玩法提示：从三位各选1个或多个号码，选号与开奖号码按位一致即中奖1160元。",
+            "ballInfo": [
+              {
+                "name": "百位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "十位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "个位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "和值",
+            "algorithm": "SSC_3XHZ",
+            "netid": "13-67",
+            "rowSplit": "|",
+            "desc": "玩法提示：选择1个和值投注，所选和值与开奖号码后三位和值一致即中奖1160元。",
+            "ballInfo": [
+              {
+                "name": "号码",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  },
+                  {
+                    "num": "10",
+                    "color": "red"
+                  },
+                  {
+                    "num": "11",
+                    "color": "red"
+                  },
+                  {
+                    "num": "12",
+                    "color": "red"
+                  },
+                  {
+                    "num": "13",
+                    "color": "red"
+                  },
+                  {
+                    "num": "14",
+                    "color": "red"
+                  },
+                  {
+                    "num": "15",
+                    "color": "red"
+                  },
+                  {
+                    "num": "16",
+                    "color": "red"
+                  },
+                  {
+                    "num": "17",
+                    "color": "red"
+                  },
+                  {
+                    "num": "18",
+                    "color": "red"
+                  },
+                  {
+                    "num": "19",
+                    "color": "red"
+                  },
+                  {
+                    "num": "20",
+                    "color": "red"
+                  },
+                  {
+                    "num": "21",
+                    "color": "red"
+                  },
+                  {
+                    "num": "22",
+                    "color": "red"
+                  },
+                  {
+                    "num": "23",
+                    "color": "red"
+                  },
+                  {
+                    "num": "24",
+                    "color": "red"
+                  },
+                  {
+                    "num": "25",
+                    "color": "red"
+                  },
+                  {
+                    "num": "26",
+                    "color": "red"
+                  },
+                  {
+                    "num": "27",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "组三包号",
+            "algorithm": "SSC_3XZSBH",
+            "netid": "13-68",
+            "rowSplit": "|",
+            "desc": "玩法提示：中奖号码3位数中有任意两位数字相同，且投注号码与中奖号码的数字相同， 顺序不限，即中奖385元。",
+            "ballInfo": [
+              {
+                "name": "号码",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "组三直选",
+            "algorithm": "SSC_3XZSZX",
+            "netid": "13-69",
+            "rowSplit": "|",
+            "desc": "玩法提示：中奖号码3位数中有两位数字相同且与对子号码相同，其余数字与单数号码相同，即中奖385元。",
+            "ballInfo": [
+              {
+                "name": "对子号",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "单号",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "组六包号",
+            "algorithm": "SSC_3XZLBH",
+            "netid": "13-70",
+            "rowSplit": "|",
+            "desc": "玩法提示：开奖号码后三位数字各不相同，所选号码包含开奖号码后三位（顺序不限），即中奖190元。",
+            "ballInfo": [
+              {
+                "name": "号码",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "二星",
+        "type": [
+          {
+            "name": "直选",
+            "algorithm": "SSC_2XZX",
+            "netid": "14-71",
+            "rowSplit": "|",
+            "desc": "玩法提示：从两位各选1个或多个号码，选号与开奖号码按位一致即中奖116元。",
+            "ballInfo": [
+              {
+                "name": "十位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "个位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "组选",
+            "algorithm": "SSC_2XZUX",
+            "netid": "14-72",
+            "rowSplit": "|",
+            "desc": "玩法提示：至少选择2个号码，开奖号码后两位包含在选号中即中奖58元。",
+            "ballInfo": [
+              {
+                "name": "号码",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "和值",
+            "algorithm": "SSC_2XHZ",
+            "netid": "14-73",
+            "rowSplit": "|",
+            "desc": "玩法提示：选择1个和值投注，所选和值与开奖号码后两位和值一致即中奖116元。",
+            "ballInfo": [
+              {
+                "name": "号码",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  },
+                  {
+                    "num": "10",
+                    "color": "red"
+                  },
+                  {
+                    "num": "11",
+                    "color": "red"
+                  },
+                  {
+                    "num": "12",
+                    "color": "red"
+                  },
+                  {
+                    "num": "13",
+                    "color": "red"
+                  },
+                  {
+                    "num": "14",
+                    "color": "red"
+                  },
+                  {
+                    "num": "15",
+                    "color": "red"
+                  },
+                  {
+                    "num": "16",
+                    "color": "red"
+                  },
+                  {
+                    "num": "17",
+                    "color": "red"
+                  },
+                  {
+                    "num": "18",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "一星",
+        "type": [
+          {
+            "name": "一星",
+            "algorithm": "SSC_YX",
+            "netid": "15",
+            "rowSplit": "|",
+            "desc": "玩法提示：选1个或多个号码，选号与开奖号码按位一致即中奖11元。",
+            "ballInfo": [
+              {
+                "name": "号码",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "大小单双",
+        "type": [
+          {
+            "name": "大小单双",
+            "algorithm": "SSC_DXDS",
+            "netid": "16",
+            "rowSplit": "|",
+            "desc": "玩法提示：对十、个位进行大小单双投注，所选大小单双与开奖号码十、个位大小单双一致即中奖4元。",
+            "ballInfo": [
+              {
+                "name": "十位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "大",
+                    "color": "red"
+                  },
+                  {
+                    "num": "小",
+                    "color": "red"
+                  },
+                  {
+                    "num": "单",
+                    "color": "red"
+                  },
+                  {
+                    "num": "双",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "个位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "大",
+                    "color": "red"
+                  },
+                  {
+                    "num": "小",
+                    "color": "red"
+                  },
+                  {
+                    "num": "单",
+                    "color": "red"
+                  },
+                  {
+                    "num": "双",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "任选一",
+        "type": [
+          {
+            "name": "任选一",
+            "algorithm": "SSC_RX1",
+            "desc": "玩法提示：从任意位选择1个或多个号码，选号与对应位置的开奖号码一致即中奖11元。",
+            "netid": "17",
+            "cover": "*",
+            "rowSplit": "|",
+            "ballInfo": [
+              {
+                "name": "万位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "千位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "百位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "十位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "个位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "任选二",
+        "type": [
+          {
+            "name": "任选二",
+            "algorithm": "SSC_RX2",
+            "netid": "18",
+            "cover": "*",
+            "rowSplit": "|",
+            "desc": "玩法提示：从任意2位选择1个或多个号码，选号与对应位置的开奖号码一致即中奖116元。",
+            "ballInfo": [
+              {
+                "name": "万位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "千位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "百位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "十位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              },
+              {
+                "name": "个位",
+                "max": 0,
+                "reject": false,
+                "colNum": 0,
+                "colStyle": "circle",
+                "colSplit": ",",
+                "balllist": [
+                  {
+                    "num": "0",
+                    "color": "red"
+                  },
+                  {
+                    "num": "1",
+                    "color": "red"
+                  },
+                  {
+                    "num": "2",
+                    "color": "red"
+                  },
+                  {
+                    "num": "3",
+                    "color": "red"
+                  },
+                  {
+                    "num": "4",
+                    "color": "red"
+                  },
+                  {
+                    "num": "5",
+                    "color": "red"
+                  },
+                  {
+                    "num": "6",
+                    "color": "red"
+                  },
+                  {
+                    "num": "7",
+                    "color": "red"
+                  },
+                  {
+                    "num": "8",
+                    "color": "red"
+                  },
+                  {
+                    "num": "9",
+                    "color": "red"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
